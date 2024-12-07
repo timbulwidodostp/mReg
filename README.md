@@ -1,6 +1,8 @@
 # mReg
 Multiple regression Use mReg (berryFunctions) With (In) R Software
 
+https://www.youtube.com/watch?v=BuFf2LiAZIQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
